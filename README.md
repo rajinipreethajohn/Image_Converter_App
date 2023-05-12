@@ -49,7 +49,7 @@ pip install streamlit numpy opencv-python pillow
    - Blurred Effect: Applies a blurring effect to the image with adjustable intensity.
    ![graph](/images/img6.png)
 
-8. Adjust the intensity sliders (if applicable) to control the effect.
+8. Adjust the intensity sliders (if desired) to control the effect.
 
 9. The "After" image will update automatically based on your selection.
 
