@@ -1,7 +1,3 @@
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rajinipreethajohn-image-converter-ap-image-converter-app-1v5ese.streamlit.app/)
-
-
 # Image Converter App
 
 This is a simple image converter app that allows you to convert your favorite photo to different effects such as a pencil sketch, a grayscale image, or an image with a blurring effect.
@@ -36,16 +32,22 @@ pip install streamlit numpy opencv-python pillow
 4. The app will open in your web browser.
 
 5. Upload your photo by clicking the "Browse files" button.
-
+   ![graph](/images/img1.png)
 6. The app will display the "Before" and "After" images side by side.
+    
 
 7. Select the desired conversion option from the sidebar:
 
    - Original: Displays the original image without any conversion.
+   ![graph](/images/img2.png)
    - Gray Image: Converts the image to grayscale.
+   ![graph](/images/img3.png)
    - Black & White: Converts the image to black and white with adjustable intensity.
+   ![graph](/images/img4.png)
    - Pencil Sketch: Converts the image to a pencil sketch with adjustable intensity.
+   ![graph](/images/img5.png)
    - Blurred Effect: Applies a blurring effect to the image with adjustable intensity.
+   ![graph](/images/img6.png)
 
 8. Adjust the intensity sliders (if applicable) to control the effect.
 
